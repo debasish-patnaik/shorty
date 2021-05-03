@@ -4,7 +4,7 @@ from django.db import models
 
 
 class URL(models.Model):
-    """URL to be shortened"""
+    """URL object class"""
 
     full_url = models.URLField(unique=True)
     url_hash = models.URLField(unique=True)
