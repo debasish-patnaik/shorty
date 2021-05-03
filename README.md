@@ -1,2 +1,2 @@
 # shorty
-## A URL Shortener with Django and GraphQL
+A URL Shortener with Django and GraphQL
